@@ -1,0 +1,34 @@
+{
+    // Use o IntelliSense para saber mais sobre os atributos possíveis.
+    // Focalizar para exibir as descrições dos atributos existentes.
+    // Para obter mais informações, acesse: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agenda_saude",
+            "cwd": "agenda_saude",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "agenda_saude (profile mode)",
+            "cwd": "agenda_saude",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "agenda_saude (release mode)",
+            "cwd": "agenda_saude",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "agenda_saude tests",
+            "request": "launch",
+            "type": "dart",
+            "program": "./test/"
+        }
+    ]
+}
