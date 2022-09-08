@@ -1,0 +1,12 @@
+{
+  "name": "agenda-saude",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jorgemaciel/agenda-saude.git",
+  "author": "jorgemaciel <jorge.maciel.jr@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "git-commit-msg-linter": "^4.1.3",
+    "standard-version": "^9.5.0"
+  }
+}
